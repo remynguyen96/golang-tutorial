@@ -1,5 +1,0 @@
-package HttpRequest
-
-func MainHttp() {
-
-}
